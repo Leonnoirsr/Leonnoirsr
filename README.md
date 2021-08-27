@@ -1,6 +1,6 @@
 - 👋<Hello World>. I'm Leon
 - 👀 My interest are: Music. Marketing. Product design. Graphic design.
-- 🌱 I’m currently learning: Reactjs
+- 🌱 I’m currently learning: **Reactjs**
 - 
 - 📫 How to reach me ...
 
