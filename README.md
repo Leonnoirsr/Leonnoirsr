@@ -11,7 +11,7 @@
 ---
 <br>
 <br>
-<center> <h2>🚀 My Current Skill Stack Is:</h2></center>
+<center> <h2>🚀 My Current Tech Stack Is:</h2></center>
 <br>
 <br>
 <p align="center"> 
