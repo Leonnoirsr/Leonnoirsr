@@ -1,5 +1,4 @@
-<center><h1>Hi there 👋, I'm Leon</h1></center>
-
+<center><h1>Hi 👋 ,  I'm Leon</h1></center>
 
 <center><h2>I am a Software Engineer</h2></center>
 
@@ -33,7 +32,12 @@
 
 <center><h2> Highlighted Projects:</h2></center>
 
-<br>
+<center><p><h3>Streaming Calculator:</h3><a href="https://leonnoirsr.github.io/Streaming-Calculator/"> Live Demo </a>  | <a href="https://github.com/Leonnoirsr/Streaming-Calculator"> Repo</a></center>
+
+<center><p><h3>Playoff Score Keeper:</h3><a href="https://leonnoirsr.github.io/playoffs-score-keeper/"> Live Demo </a>  | <a href="https://github.com/Leonnoirsr/playoffs-score-keeper"> Repo </a></center>
+
+<center><p><h3>Monsters:</h3><a href="https://leonnoirsr.github.io/monsters/"> Live Demo </a>  | <a href="https://github.com/Leonnoirsr/monsters"> Repo </a></center>
+
 
 
 ---
