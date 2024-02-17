@@ -31,8 +31,8 @@
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" width="100" style="display: inline;"/>
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="100" style="display: inline;"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100" height="100" style="display: inline;"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="100" style="display: inline;"/>
+  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="express" width="100" height="100" style="display: inline;"/>
+  <img src="https://img.icons8.com/color/48/000000/nestjs.png" width="100" style="display: inline;"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100" style="display: inline;"/> 
   <img src="https://img.icons8.com/color/48/000000/firebase.png" width="100" style="display: inline;"/>  
   <img src="https://img.icons8.com/color/48/000000/git.png" width="100" style="display: inline;"/>  
