@@ -20,12 +20,13 @@
 <br>
 <center><h3>Front End:</h3></center>
 <p align="center"> 
-  <img src="https://img.icons8.com/color/48/000000/html-5.png" width="100" style="display: inline;"/> 
-  <img src="https://img.icons8.com/color/48/000000/css3.png" width="100" style="display: inline;"/> 
-  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="100" style="display: inline;"/> 
-  <img src="https://icons8.com/icon/Xf1sHBmY73hA/typescript" width="100" style="display: inline;"/>
-  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="100" style="display: inline;"/>
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" width="100" style="vertical-align: middle; display: inline-block;"/> 
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="100" style="vertical-align: middle; display: inline-block;"/> 
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="100" style="vertical-align: middle; display: inline-block;"/> 
+  <img src="https://www.datocms-assets.com/48401/1627663113-learn-typescript.png" width="100" style="vertical-align: middle; display: inline-block;"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="100" style="vertical-align: middle; display: inline-block;"/>
 </p>
+
 <br>
 <center><h3>Back End:</h3></center>
 <p align="center">
