@@ -33,8 +33,13 @@
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="100" style="display: inline;"/> 
   <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="express" width="100" height="100" style="display: inline;"/>
   <img src="https://img.icons8.com/color/48/000000/nestjs.png" width="100" style="display: inline;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100" style="display: inline;"/> 
+</p>
+<br>
+  <center><h3>Database:</h3></center>
+  <p align="center">
+  <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" width="100" height="100" style="display: inline;"/> 
   <img src="https://img.icons8.com/color/48/000000/firebase.png" width="100" style="display: inline;"/>  
+  </p>
   <img src="https://img.icons8.com/color/48/000000/git.png" width="100" style="display: inline;"/>  
 </p>
 
