@@ -19,24 +19,23 @@
 <br>
 <br>
 <center><h3>Front End:</h3></center>
-<p align="center"> 
-  <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png" width="100"/> </a> 
-     <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://img.icons8.com/color/48/000000/css3.png" width="100"/></a> 
-         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="100"/></a> 
-         <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://www.datocms-assets.com/48401/1627663113-learn-typescript.png?fit=max&fm=webp&w=900" width="100"/></a>
-          <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png" width="100"/></a>
+<p align="center">
+  <div style="display: inline-block; margin: 5px;"><img src="https://img.icons8.com/color/48/000000/html-5.png" width="100"/></div>
+  <div style="display: inline-block; margin: 5px;"><img src="https://img.icons8.com/color/48/000000/css3.png" width="100"/></div>
+  <div style="display: inline-block; margin: 5px;"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="100"/></div>
+  <div style="display: inline-block; margin: 5px;"><img src="https://www.datocms-assets.com/48401/1627663113-learn-typescript.png?fit=max&fm=webp&w=900" width="100"/></div>
+  <div style="display: inline-block; margin: 5px;"><img src="https://img.icons8.com/color/48/000000/react-native.png" width="100"/></div>
 </p>
 <br>
 <center><h3>Back End:</h3></center>
 <p align="center">
-                   <a style="padding-right:8px;" href="https://www.ruby-lang.org/en/" target="_blank"><img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" width="100"/></a>
-            <a style="padding-right:8px;" href="https://nodejs.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="100"/></a> 
-           <a href="https://expressjs.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100" height="100"/></a>
-           <a href="https://nestjs.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="100"/></a>
-      <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100"/></a> 
-       <a href="https://firebase.google.com/" target="_blank">
-<img src="https://img.icons8.com/color/48/000000/firebase.png" width="100"/></a>  
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png" width="100"/> </a>  
+  <div style="display: inline-block; margin: 5px;"><img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" width="100"/></div>
+  <div style="display: inline-block; margin: 5px;"><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="100"/></div>
+  <div style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100" height="100"/></div>
+  <div style="display: inline-block; margin: 5px;"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="100"/></div>
+  <div style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100"/></div>
+  <div style="display: inline-block; margin: 5px;"><img src="https://img.icons8.com/color/48/000000/firebase.png" width="100"/></div>
+  <div style="display: inline-block; margin: 5px;"><img src="https://img.icons8.com/color/48/000000/git.png" width="100"/></div>
 </p>
 
 ---  
