@@ -43,7 +43,9 @@
   <br>
   <center><h3>Other Tools:</h3></center>
   <p align="center">
-  <img src="https://img.icons8.com/color/48/000000/git.png" width="100" style="display: inline;"/>  
+  <img src="https://img.icons8.com/color/48/000000/git.png" width="100" style="display: inline;"/>
+  <img src="https://img.icons8.com/color/48/000000/graphql.png" width="100" style="display: inline;"/>
+  <img src="https://img.icons8.com/color/48/000000/jira.png" width="100" style="display: inline;" />
 </p>
 
 ---  
