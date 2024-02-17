@@ -38,7 +38,7 @@
   <center><h3>Database:</h3></center>
   <p align="center">
   <img src="https://img.icons8.com/color/48/000000/mongodb.png" alt="mongodb" width="100" height="100" style="display: inline;"/> 
-  <img src="https://img.icons8.com/color/48/000000/firebase.png" width="100" style="display: inline;"/>  
+  <img src="https://img.icons8.com/color/48/000000/mysql.png" width="100" style="display: inline;"/>  
   </p>
   <img src="https://img.icons8.com/color/48/000000/git.png" width="100" style="display: inline;"/>  
 </p>
