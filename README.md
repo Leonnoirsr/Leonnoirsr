@@ -6,7 +6,7 @@
 
 <br>
 <br>
-<center><p> I've been making music for 20 years and recently rediscovered my passion for coding. I started learning C++ when I was 13 ( I don't know a lick of it at the moment ) but the enthusiasm to code quickly disapated. In my 20's I thought about how important it is to change the narrative of black people only becoming successful via sport and entertainment and decided to give technology another go. I enjoy building things from scratch and I've had many creative pursuits over the course of my life, tech is simply a new addition to that.</p></center>
+<center><p>As a software engineer boasting four years of rich experience, my professional journey has spanned across the dynamic landscapes of Fintech and Biotech sectors. In this voyage, I've embraced a plethora of technologies, each adding a unique hue to my palette of expertise. Beyond the realms of code, my creative spirit finds solace and expression in a diverse array of pursuits—from the rhythmic crafting of music and the art of writing to the vibrant world of graphic design. My passion extends beyond mere participation in the tech industry; I am deeply committed to democratizing its benefits for underrepresented demographics. This stems from a firm belief, born from personal transformation, that technology possesses the power to revolutionize lives, much like it has irrevocably changed mine.</p></center>
 <br>
 
 ---
