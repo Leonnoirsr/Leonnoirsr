@@ -1,6 +1,6 @@
 <!-- Header and Description -->
 
-<center><h1>Hi 👋 ,  I'm Leon</h1></center>
+<center><h1>Hi 👋, I'm Leon</h1></center>
 
 <center><h2>I am a Software Engineer</h2></center>
 
@@ -19,23 +19,23 @@
 <br>
 <br>
 <center><h3>Front End:</h3></center>
-<p align="center">
-  <div style="display: inline-block; margin: 5px;"><img src="https://img.icons8.com/color/48/000000/html-5.png" width="100"/></div>
-  <div style="display: inline-block; margin: 5px;"><img src="https://img.icons8.com/color/48/000000/css3.png" width="100"/></div>
-  <div style="display: inline-block; margin: 5px;"><img src="https://img.icons8.com/color/48/000000/javascript.png" width="100"/></div>
-  <div style="display: inline-block; margin: 5px;"><img src="https://www.datocms-assets.com/48401/1627663113-learn-typescript.png?fit=max&fm=webp&w=900" width="100"/></div>
-  <div style="display: inline-block; margin: 5px;"><img src="https://img.icons8.com/color/48/000000/react-native.png" width="100"/></div>
+<p align="center"> 
+  <img src="https://img.icons8.com/color/48/000000/html-5.png" width="100" style="display: inline;"/> 
+  <img src="https://img.icons8.com/color/48/000000/css3.png" width="100" style="display: inline;"/> 
+  <img src="https://img.icons8.com/color/48/000000/javascript.png" width="100" style="display: inline;"/> 
+  <img src="https://www.datocms-assets.com/48401/1627663113-learn-typescript.png?fit=max&fm=webp&w=900" width="100" style="display: inline;"/>
+  <img src="https://img.icons8.com/color/48/000000/react-native.png" width="100" style="display: inline;"/>
 </p>
 <br>
 <center><h3>Back End:</h3></center>
 <p align="center">
-  <div style="display: inline-block; margin: 5px;"><img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" width="100"/></div>
-  <div style="display: inline-block; margin: 5px;"><img src="https://img.icons8.com/color/48/000000/nodejs.png" width="100"/></div>
-  <div style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100" height="100"/></div>
-  <div style="display: inline-block; margin: 5px;"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="100"/></div>
-  <div style="display: inline-block; margin: 5px;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100"/></div>
-  <div style="display: inline-block; margin: 5px;"><img src="https://img.icons8.com/color/48/000000/firebase.png" width="100"/></div>
-  <div style="display: inline-block; margin: 5px;"><img src="https://img.icons8.com/color/48/000000/git.png" width="100"/></div>
+  <img src="https://img.icons8.com/color/48/000000/ruby-programming-language.png" width="100" style="display: inline;"/>
+  <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="100" style="display: inline;"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="100" height="100" style="display: inline;"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/NestJS.svg" width="100" style="display: inline;"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="100" height="100" style="display: inline;"/> 
+  <img src="https://img.icons8.com/color/48/000000/firebase.png" width="100" style="display: inline;"/>  
+  <img src="https://img.icons8.com/color/48/000000/git.png" width="100" style="display: inline;"/>  
 </p>
 
 ---  
@@ -73,4 +73,4 @@
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonnoirsr)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](
