@@ -52,11 +52,11 @@
 <p>
 <center><h2> Highlighted Projects:</h2></center>
 
-<center><p><h4>Streaming Calculator:</h4><a href="https://leonnoirsr.github.io/Streaming-Calculator/"> Live Demo </a>  | <a href="https://github.com/Leonnoirsr/Streaming-Calculator"> Repo</a></center>
+<center><p><h4>Streaming Calculator:</h4><a href="https://leonnoirsr.github.io/Streaming-Calculator/"> Live Demo </a>   | <a href="https://github.com/Leonnoirsr/Streaming-Calculator"> Repo</a></center>
 
-<center><p><h4>Playoff Score Keeper:</h4><a href="https://leonnoirsr.github.io/playoffs-score-keeper/"> Live Demo </a>  | <a href="https://github.com/Leonnoirsr/playoffs-score-keeper"> Repo </a></center>
+<center><p><h4>Playoff Score Keeper:</h4><a href="https://leonnoirsr.github.io/playoffs-score-keeper/"> Live Demo </a>   | <a href="https://github.com/Leonnoirsr/playoffs-score-keeper"> Repo </a></center>
 
-<center><p><h4>Monsters:</h4><a href="https://leonnoirsr.github.io/monsters/"> Live Demo </a>  | <a href="https://github.com/Leonnoirsr/monsters"> Repo </a></center>
+<center><p><h4>Monsters:</h4><a href="https://leonnoirsr.github.io/monsters/"> Live Demo </a>   | <a href="https://github.com/Leonnoirsr/monsters"> Repo </a></center>
 </p>
 
 
