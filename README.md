@@ -30,7 +30,6 @@
 <center><h3>Back End:</h3></center>
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/nodejs.png" width="100" style="display: inline;"/> 
-  <img src="https://img.icons8.com/color/48/000000/express-js.png" alt="express" width="100" height="100" style="display: inline;"/>
   <img src="https://img.icons8.com/color/48/000000/nestjs.png" width="100" style="display: inline;"/>
 </p>
 <br>
