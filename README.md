@@ -79,5 +79,4 @@
 <p align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats" 
 
-[![Top Langs]
-[![Leon's GitHub stats](https://github-readme-stats.vercel.app/api?username=leonnoirsr)](https://github.com/leonnoirsr/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=leonnoirsr&langs_count=5)
