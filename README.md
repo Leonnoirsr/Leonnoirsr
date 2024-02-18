@@ -48,6 +48,9 @@
 
 <!-- Projects -->
 
+<!-- 
+
+COMMENT THIS BACK IN WHEN YOU HAVE LEGIT PROJECTS THAT HOLD WEIGHT TO SHOWCASE 
 <br>
 <p>
 <center><h2> Highlighted Projects:</h2></center>
@@ -58,6 +61,8 @@
 
 <center><p><h4>Monsters:</h4><a href="https://leonnoirsr.github.io/monsters/"> Live Demo </a>   | <a href="https://github.com/Leonnoirsr/monsters"> Repo </a></center>
 </p>
+
+-->
 
 
 ---
